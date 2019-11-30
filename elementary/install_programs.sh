@@ -1,4 +1,4 @@
 sudo apt-get install \
     vlc evince \
-    clang make cmake 
-
+    clang make cmake \
+    r-base r-base-dev
